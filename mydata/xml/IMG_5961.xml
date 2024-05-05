@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>IMG_5961.JPEG</filename>
+	<path>/my-project-name/IMG_5961.JPEG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>nacho cheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>737</ymin>
+			<xmax>813</xmax>
+			<ymax>1784</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>qrcode</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>937</xmin>
+			<ymin>1519</ymin>
+			<xmax>1141</xmax>
+			<ymax>1727</ymax>
+		</bndbox>
+	</object>
+</annotation>

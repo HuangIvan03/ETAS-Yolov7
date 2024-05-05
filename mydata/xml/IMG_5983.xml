@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>IMG_5983.JPEG</filename>
+	<path>/my-project-name/IMG_5983.JPEG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>qrcode</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>949</xmin>
+			<ymin>1503</ymin>
+			<xmax>1141</xmax>
+			<ymax>1699</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shrimp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>571</ymin>
+			<xmax>888</xmax>
+			<ymax>1798</ymax>
+		</bndbox>
+	</object>
+</annotation>

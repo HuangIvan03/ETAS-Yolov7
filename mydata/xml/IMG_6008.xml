@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>IMG_6008.JPEG</filename>
+	<path>/my-project-name/IMG_6008.JPEG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>qrcode</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>750</xmin>
+			<ymin>1264</ymin>
+			<xmax>998</xmax>
+			<ymax>1505</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>green tea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>289</xmin>
+			<ymin>726</ymin>
+			<xmax>715</xmax>
+			<ymax>1571</ymax>
+		</bndbox>
+	</object>
+</annotation>
